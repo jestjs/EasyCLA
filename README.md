@@ -82,7 +82,7 @@ If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfounda
 
 Former JS Foundation projects were required to use a CLA. The legacy CLA infrastructure will be deprecated, and we recommend that any projects which plan to continue using a CLA transition over to EasyCLA.
 
-Please note that the OpenJS Foundation CLA text is new (meaning contributors will sign it even if they signed the old JSF CLA) and is also **optional**. Projects which don't move to EasyCLA will need to adopt the DCO process when the legacy CLA infrastructure is decommissioned. If you have questions on this, please reach out to [Brian Warner](mailto:bwarner@linuxfoundation.org).
+Please note that the OpenJS Foundation CLA text is new (meaning contributors will sign it even if they signed the old JSF CLA) and is also **optional**. Projects which don't move to EasyCLA will need to adopt the DCO process when the legacy CLA infrastructure is decommissioned. If you have questions on this, please reach out to [OpenJS Foundation staff](mailto:bwarner@linuxfoundation.org).
 
 Here are the steps to add EasyCLA to your project.
 
@@ -114,4 +114,4 @@ If your company benefits from this project and you would like to provide essenti
 
 ### 4. Request that EasyCLA be enabled
 
-When the above steps are complete, please reach out to [Brian Warner](mailto:operations@openjsf.org) and EasyCLA will be enabled for your repos.
+When the above steps are complete, please reach out to [OpenJS Foundation Staff](mailto:operations@openjsf.org) and EasyCLA will be enabled for your repos.
